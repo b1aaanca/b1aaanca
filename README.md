@@ -45,10 +45,3 @@ If you want to chat with me, send me a message:
 
 <br>
 
-## **Spotify playlist:** 
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31vegweu425nc5dhkxlscwiudelu)
-<br/>
-
-
-
