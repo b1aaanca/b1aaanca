@@ -41,7 +41,7 @@ If you want to chat with me, send me a message:
 ## **GitHub Statistics**
 
 [![card](https://github-readme-stats.vercel.app/api?username=b1aaanca&theme=gruvbox)](https://github.com/b1aaanca/)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=b1aaanca&hide=html&layout=compact=true&theme=gruvbox)](https://github.com/b1aaanca/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=b1aaanca&hide=html&layout=compact=true&theme=gruvbox)](https://github.com/b1aaanca/Jogo-Jokempo)
 
 <br>
 
