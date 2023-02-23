@@ -40,19 +40,13 @@ If you want to chat with me, send me a message:
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" >
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" >
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" >
-  <img align="center" alt="Watson" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" >
- 
- 
-</div><br>
+  </div><br>
 
-## **GitHub Statistics**
-
-(https://github-readme-stats.vercel.app/api?username=b1aaanca&theme=gruvbox)(https://github.com/b1aaanca/)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=b1aaanca&hide=html&layout=compact=true&theme=gruvbox)(https://github.com/b1aaanca)
+[![card](https://github-readme-stats.vercel.app/api?username=b1aaanca&theme=gruvbox)](https://github.com/b1aaanca/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=b1aaanca&hide=html&layout=compact=true&theme=gruvbox)](https://github.com/b1aaanca)
 
 <br>
 
