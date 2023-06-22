@@ -20,7 +20,7 @@ If you want to chat with me, send me a message:
   <a href="https://www.linkedin.com/in/b1aaanca/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://api.whatsapp.com/send/?phone=14015268771&text&app_absent=0" alt="WhatsApp">
+  <a href="https://wa.me/5511950071670" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
   <a href="https://www.facebook.com/biancadosanjos.2017" alt="Facebook">
