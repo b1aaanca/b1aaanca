@@ -3,10 +3,11 @@
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
 ```
-Estudante de Engenharia de Software na Estacio, tenho 23 anos e sou de São Paulo/SP
-Aqui voce vai encontrar de tudo, rascunhos, projetos, e desafios
+Estudante de Engenharia de Software na Estácio, tenho 23 anos e sou de São Paulo/SP.
+Aqui você vai encontrar de tudo: rascunhos, projetos e desafios
 de cursos que fiz ao longo da carreira.
-Seja bem vindo, tire os sapatos e fique avontade.
+
+Seja bem-vindo, tire os sapatos e fique à vontade
 
 ```
 
