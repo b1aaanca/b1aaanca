@@ -1,9 +1,11 @@
 
-## 🧡 Hello my name is <strong>{Bianca}!</strong>
+## 🧡 Hi, my name is <strong>{Bianca}!</strong>
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
 ```
-Developer Javascript FullStack
+Estudante de Engenharia de Software na Estacio, tenho 23 anos e sou de São Paulo/SP
+Aqui voce vai encontrar de tudo, rascunhos, projetos, e desafios de cursos que fiz ao longo da carreira.
+Seja bem vindo, tire os sapatos e fique avontade.
 
 ```
 
