@@ -4,7 +4,8 @@
 
 ```
 Estudante de Engenharia de Software na Estacio, tenho 23 anos e sou de São Paulo/SP
-Aqui voce vai encontrar de tudo, rascunhos, projetos, e desafios de cursos que fiz ao longo da carreira.
+Aqui voce vai encontrar de tudo, rascunhos, projetos, e desafios
+de cursos que fiz ao longo da carreira.
 Seja bem vindo, tire os sapatos e fique avontade.
 
 ```
