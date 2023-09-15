@@ -7,7 +7,6 @@ Estudante de Engenharia de Software na Estácio, tenho 23 anos e sou de São Pau
 Aqui você vai encontrar de tudo: rascunhos, projetos e desafios
 de cursos que fiz ao longo da carreira.
 
-Seja bem-vindo, tire os sapatos e fique à vontade
 
 ```
 
